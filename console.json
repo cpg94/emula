@@ -1,0 +1,10 @@
+[{
+    "console": "SNES",
+    "core_name":"snes9x2010_libretro_android.so",
+    "rom_path": "/storage/emulated/0/roms/SFC/Castlevania/Castlevania.smc"
+}, {
+    "console": "NES",
+    "core_name": "fceumm_libretro_android.so",
+    "rom_path": "/storage/emulated/0/roms/1943 - The Battle of Midway (U).zip"
+}
+]
